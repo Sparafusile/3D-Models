@@ -1,8 +1,9 @@
-A mason jar water dispensor
+--A mason jar water dispensor
 A mason jar hourglass
-A "beer handle" - a "cozy" with a handle
+-- A "beer handle" - a "cozy" with a handle
 Petri dish holder inside mason jar
 -- Jar lid with dessicate chamber on top
-Handle for lock picks
-123 Block
-Chemistry Glassware Drying Stand
+-- Handle for lock picks
+-- 123 Block
+-- Chemistry Glassware Drying Stand
+Chemistry Glassware Drying Stand with fan inlet
