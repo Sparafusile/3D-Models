@@ -15,4 +15,5 @@ Cribbage board and pieces
 Cyclone separator
 Buttons
 Molecules (DMT, psilocybin, LSD)
-80/20 extrusions
+-- 80/20 extrusions
+Capsule packer
