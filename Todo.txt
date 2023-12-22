@@ -18,3 +18,5 @@ Molecules (DMT, psilocybin, LSD)
 -- 80/20 extrusions
 Capsule packer
 -- Weed cone grinder
+Cyclone Separator
+Power supply from PC PSU
