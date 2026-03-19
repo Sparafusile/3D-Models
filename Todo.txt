@@ -1,7 +1,7 @@
 --A mason jar water dispensor
 A mason jar hourglass
 -- A "beer handle" - a "cozy" with a handle
-Petri dish holder inside mason jar
+-- Petri dish holder inside mason jar
 -- Jar lid with dessicate chamber on top
 -- Handle for lock picks
 -- 123 Block
@@ -20,3 +20,6 @@ Capsule packer
 -- Weed cone grinder
 Power supply from PC PSU
 Lunch box
+Arm holes for still air box that trap the gloves
+A petri dish rolodex for use in a still air box
+Air equalization filter port for still air box using 110mm lab filters
